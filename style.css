@@ -30,3 +30,11 @@ h1 {
   transform: translateX(-50%);
   white-space: nowrap;
 }
+
+.btn {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 50%;
+  }
